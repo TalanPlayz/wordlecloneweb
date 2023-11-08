@@ -12,7 +12,7 @@ class Game {
     ) {
         switch (color) {
             case "correct":
-                return "#AFE1AF"
+                return "#43B343"
             case "empty":
                 return keyboard ? "dimgrey" : "#D3D3D3"
             case "semicorrect":
