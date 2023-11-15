@@ -1,5 +1,5 @@
 ## Another Wordle clone
-# [Click here to view the website](https://jameslinimk.github.io/wordlecloneweb/public/index.html)
+# [Click here to view the website](https://talanplayz.github.io/wordlecloneweb/public/index.html)
 Yes, this is another Wordle clone. This one has:
  - 3-7 length words
  - 3-9 guesses
